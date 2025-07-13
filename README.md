@@ -4,6 +4,6 @@
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=freelance programmer" alt="Headline" />
     </div>
 
-#### 🔧 Languages
+# 💻 Tech Stack:
 
 [<img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java" width="100">](https://docs.oracle.com/en/java/)
